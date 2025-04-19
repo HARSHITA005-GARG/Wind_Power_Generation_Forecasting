@@ -2,8 +2,8 @@
 
 A machine learning project for predicting wind power output using meteorological and turbine data.
 
-![Wind Turbine Visualization]([https://www.google.com/imgres?q=wind%20turbine&imgurl=https%3A%2F%2Fwww.sterlingtt.com%2Fwp-content%2Fthemes%2Fyootheme%2Fcache%2F92%2Fwind-turbines-pexels-kervin-edward-lara-3976320-928d0d59.jpeg&imgrefurl=https%3A%2F%2Fwww.sterlingtt.com%2F2023%2F06%2F21%2Fexamples-of-wind-energy%2F&docid=Uj4p8LTPA8HNwM&tbnid=G7RHObA7uopXPM&vet=12ahUKEwiFj6zRzuOMAxVacGwGHeo0MbEQM3oECGIQAA..i&w=635&h=500&hcb=2&ved=2ahUKEwiFj6zRzuOMAxVacGwGHeo0MbEQM3oECGIQAA])
-
+![image](https://github.com/user-attachments/assets/3bf50347-39ea-4a7a-b949-2bb984fb6493)
+*Wind turbines are the fastest-growing renewable energy source, and wind energy is now cost-competitive with nonrenewable resources. (Courtesy: ©Can Stock Photo/ssuaphoto)*
 ## 📌 Project Overview
 This repository contains tools for:
 - Processing historical wind farm operational data
